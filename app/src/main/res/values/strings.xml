@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Employee Management System</string>
+    <string name="edit_message">Enter your Name</string>
+    <string name="button_send">NEXT</string>
+    <string name="welcome">Welcome to Employee Management Dashboard ! </string>
+    <string name="hello">Hellow</string>
+    <string name="endmark">!</string>
+    <string name="add_employee">Add Employee</string>
+    <string name="home">Home</string>
+    <string name="des">This is your dashboard</string>
+    <string name="addnewemp">Add New Employee</string>
+    <string name="name">Full Name</string>
+    <string name="department">Department</string>
+    <string name="phonenumber">Phone Number</string>
+    <string name="jobtime">Job TIme</string>
+    <string name="entername">Enter Name</string>
+    <string name="add">ADD</string>
+    <string name="id">Employee ID</string>
+    <string name="enterphone">Enter Phone Number</string>
+    <string name="enterdep">Enter Department</string>
+    <string name="show">SHOW</string>
+    <string name="viewemp">"View Employee Details "</string>
+    <string name="updatebtn">UPDATE</string>
+    <string name="DELETE" />
+    <string name="deletebtn">DELETE</string>
+    <string name="btnhome">Home</string>
+</resources>
